@@ -1,0 +1,43 @@
+﻿.left{
+background-image:url(../pics/left.jpg);
+width:18px;
+height:24px;
+
+}
+.camera{
+background-image:url(pics/camera.jpg);
+width:20em;
+height:3em;
+
+}
+.f{
+color:white;
+}
+.topbg{
+background-image:url(../pics/topbg.jpg);
+}
+.top{
+background-image:url(../pics/kg.jpg);
+width:768px;
+height:150px;
+}
+.top01{
+background-image:url(../pics/top01.jpg);
+}
+.bs{
+background-image:url(../pics/bs.jpg);
+}
+.top02{
+background-image:url(../pics/top02.jpg);
+}
+font{
+font-family:新細明體;
+color:#000000;
+font-size:13px;
+}
+.a{color:#FFFFFF;font-size:2px;}
+
+a:link {color:blue;}    /* 設定尚未點閱過的連結樣式 */
+a:visited {color:#33CCFF;} /* 設定過去曾經閱過的連結 */
+a:hover {color:#66DD00;}   /* 設定滑鼠游標指在連結位置上的樣式 */
+a:active {color:#33FFFF;} /* 設定上點擊過的連結樣式 */
