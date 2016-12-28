@@ -1,5 +1,5 @@
 ﻿	
-	function EETopic(i){
+	function PETopic(i){
 		var topics = [
 						"人生尚未結束",
 						"黑色的心",
@@ -20,11 +20,11 @@
 						"上學 ? 懷念"
 						
 					];
-		EE = topics.length;		
+		PE = topics.length;		
 		return topics[i];
 	}
 	
-	function EETopicc(i){
+	function PETopicc(i){
 		var topi = [
 					"我看〈年過五十〉",
 					"我看〈變色龍〉",
@@ -48,7 +48,7 @@
 		return topi[i];
 	}
 	
-	function EEClasses(i){
+	function PEClasses(i){
 		var classess = [
 						"四技電子一甲",
 						"四技電子一乙",
@@ -72,7 +72,7 @@
 		return classess[i];
 	}
 	
-	function EENames(i){
+	function PENames(i){
 		var namess = [
 						"郭諦暉",
 						"洪慈妤",
@@ -96,5 +96,5 @@
 					];
 		return namess[i];
 	}
-	EETopic();
+	PETopic();
 	
