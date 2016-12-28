@@ -1,4 +1,4 @@
-﻿	
+﻿//Paradise:樂學園地心得篇 -> engineering:工學院 -> PETopic 標題
 	function PETopic(i){
 		var topics = [
 						"人生尚未結束",
@@ -23,7 +23,9 @@
 		PE = topics.length;		
 		return topics[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PETopic 標題
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PETopicc 藍色連結 檔案
 	function PETopicc(i){
 		var topi = [
 					"我看〈年過五十〉",
@@ -47,7 +49,9 @@
 					];
 		return topi[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PETopicc 藍色連結 檔案
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PEClasses 班級	
 	function PEClasses(i){
 		var classess = [
 						"四技電子一甲",
@@ -71,7 +75,9 @@
 						];
 		return classess[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PEClasses 班級
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PENames 姓名
 	function PENames(i){
 		var namess = [
 						"郭諦暉",
@@ -96,5 +102,7 @@
 					];
 		return namess[i];
 	}
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PENames 姓名
+
 	PETopic();
 	
