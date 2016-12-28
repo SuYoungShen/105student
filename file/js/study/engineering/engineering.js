@@ -1,4 +1,4 @@
-﻿	
+﻿//Read:閱讀心得篇 -> engineering:工學院 -> SETopic 標題
 	function SETopic(i){
 		var topics = [
 						"女子的悲哀",
@@ -18,12 +18,13 @@
 						"每個女人都值得被珍惜",
 						"逆境中成長",
 						"童年記憶"
-						
 					];
 		SE = topics.length;		
 		return topics[i];
 	}
-	
+//Read:閱讀心得篇 -> engineering:工學院 -> SETopic 標題
+
+//Study:讀書心得篇 -> engineering:工學院 -> SETopicc 藍色連結 檔案
 	function SETopicc(i){
 		var topi = [
 					"我看《南方之城的十二位女子》",
@@ -47,7 +48,9 @@
 					];
 		return topi[i];
 	}
-	
+//Study:讀書心得篇 -> engineering:工學院 -> SETopicc 藍色連結 檔案
+
+//Study:讀書心得篇 -> engineering:工學院 -> SEClasses 班級	
 	function SEClasses(i){
 		var classess = [
 						"四技電子一甲",
@@ -67,11 +70,12 @@
 						"四技土木ㄧ乙",
 						"四技建築一甲",
 						"四技建築一乙"
-
 						];
 		return classess[i];
 	}
-	
+//Study:讀書心得篇 -> engineering:工學院 -> SEClasses 班級	
+
+//Study:讀書心得篇 -> engineering:工學院 -> SENames 姓名	
 	function SENames(i){
 		var namess = [
 						"李淑萍",
@@ -91,10 +95,9 @@
 						"郭沛妏",
 						"曾翊嘉",
 						"張艾琳"
-						
-						
 					];
 		return namess[i];
 	}
+//Study:讀書心得篇 -> engineering:工學院 -> SENames 姓名
 	SETopic();
 	

@@ -1,4 +1,4 @@
-﻿	
+﻿//Paradise:樂學園地心得篇 -> management:管理學院 -> EMTopic 標題	
 	function EMTopic(i){
 		var topics = [
 						"珍惜緣分",
@@ -16,7 +16,9 @@
 		EM = topics.length;		
 		return topics[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMTopic 標題
+
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMTopicc 藍色連結 檔案
 	function EMTopicc(i){
 		var topi = [
 					"我看〈一棵開花的樹〉",
@@ -34,7 +36,9 @@
 					];
 		return topi[i];
 	}
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMTopicc 藍色連結 檔案
 	
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMClasses 班級
 	function EMClasses(i){
 		var classess = [
 						"四技企管一甲",
@@ -51,7 +55,9 @@
 						];
 		return classess[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMClasses 班級
+
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMNames 姓名	
 	function EMNames(i){
 		var namess = [
 						"李芳雯",
@@ -69,5 +75,6 @@
 					];
 		return namess[i];
 	}
+//Paradise:樂學園地心得篇 -> management:管理學院 -> EMNames 姓名
 	EMTopic();
 	

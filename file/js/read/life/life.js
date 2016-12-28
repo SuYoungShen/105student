@@ -1,4 +1,4 @@
-﻿	
+﻿//Read:閱讀心得篇 -> life:生活創意 -> RLTopic 標題	
 	function RLTopic(i){
 		var topics = [
 						"做自己，但要為自己負責",
@@ -24,7 +24,9 @@
 		RL = topics.length;		
 		return topics[i];
 	}
-	
+//Read:閱讀心得篇 -> life:生活創意 -> RLTopic 標題
+
+//Read:閱讀心得篇 -> life:生活創意 -> RLTopicc 藍色連結 檔案
 	function RLTopicc(i){
 		var topi = [
 					"我看《危險心靈》",
@@ -51,7 +53,9 @@
 					];
 		return topi[i];
 	}
-	
+//Read:閱讀心得篇 -> life:生活創意 -> RLTopicc 藍色連結 檔案
+
+//Read:閱讀心得篇 -> life:生活創意 -> RLClasses 班級	
 	function RLClasses(i){
 		var classess = [
 						"四技幼保一甲",
@@ -77,9 +81,11 @@
 						];
 		return classess[i];
 	}
-	
+//Read:閱讀心得篇 -> life:生活創意 -> RLClasses 班級
+
+//Read:閱讀心得篇 -> life:生活創意 -> RLNames 姓名
 	function RLNames(i){
-		var sc = "　";
+		var sc = "　";//空白的意思
 		var namess = [
 						"蔡依婷",
 						"謝佩芸",
@@ -105,5 +111,7 @@
 					];
 		return namess[i];
 	}
+//Read:閱讀心得篇 -> life:生活創意 -> RLNames 姓名
+
 	RLTopic();
 	

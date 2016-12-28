@@ -1,4 +1,4 @@
-﻿	
+﻿//Paradise:樂學園地心得篇 -> life:生活創意 -> PLTopic 標題
 	function PLTopic(i){
 		var topics = [
 						"意外的收穫",
@@ -25,7 +25,9 @@
 		PL = topics.length;		
 		return topics[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLTopic 標題
+
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLTopicc 藍色連結 檔案
 	function PLTopicc(i){
 		var topi = [
 					"我看〈散步迷路〉",
@@ -53,7 +55,9 @@
 					];
 		return topi[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PETopicc 藍色連結 檔案
+
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLClasses 班級
 	function PLClasses(i){
 		var classess = [
 						"四技幼保一甲",
@@ -80,7 +84,9 @@
 						];
 		return classess[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLClasses 班級
+
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLNames 姓名
 	function PLNames(i){
 		var sc = "　";
 		var namess = [
@@ -109,5 +115,7 @@
 					];
 		return namess[i];
 	}
+//Paradise:樂學園地心得篇 -> life:生活創意 -> PLNames 姓名
+
 	PLTopic();
 	

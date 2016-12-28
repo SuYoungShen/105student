@@ -1,4 +1,4 @@
-﻿	
+﻿//Read:閱讀心得篇 -> management:管理學院 -> RMTopic 標題		
 	function RMTopic(i){
 		var topics = [
 						"在放棄中成長",
@@ -15,7 +15,9 @@
 		RT = topics.length;		
 		return topics[i];
 	}
-	
+//Read:閱讀心得篇 -> management:管理學院 -> RMTopic 標題	
+
+//Read:閱讀心得篇 -> management:管理學院 -> RMTopicc 藍色連結 檔案
 	function RMTopicc(i){
 		var topi = [
 					"我看《有一種勇氣較放棄》",
@@ -32,7 +34,9 @@
 					];
 		return topi[i];
 	}
-	
+//Read:閱讀心得篇 -> management:管理學院 -> RMTopicc 藍色連結 檔案
+
+//Read:閱讀心得篇 -> management:管理學院 -> RMClasses 班級
 	function RMClasses(i){
 		var classess = [
 						"四技企管一甲",
@@ -48,7 +52,9 @@
 						];
 		return classess[i];
 	}
-	
+//Read:閱讀心得篇 -> management:管理學院 -> RMClasses 班級
+
+//Read:閱讀心得篇 -> management:管理學院 -> RMNames 姓名
 	function RMNames(i){
 		var namess = [
 						"陳妤婷",
@@ -65,5 +71,6 @@
 					];
 		return namess[i];
 	}
+//Read:閱讀心得篇 -> management:管理學院 -> RMNames 姓名
 	RMTopic();
 	

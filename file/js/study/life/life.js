@@ -1,4 +1,4 @@
-﻿	
+﻿//Study:讀書心得篇 -> life:生活創意 -> SLTopic 標題		
 	function SLTopic(i){
 		var topics = [
 						"鄉土情懷",
@@ -26,7 +26,9 @@
 		SL = topics.length;		
 		return topics[i];
 	}
-	
+//Study:讀書心得篇 -> life:生活創意 -> SLTopic 標題	
+
+//Study:讀書心得篇 -> life:生活創意 -> SLTopicc 藍色連結 檔案
 	function SLTopicc(i){
 		var topi = [
 					"細看《冷海情深》",
@@ -52,7 +54,9 @@
 					];
 		return topi[i];
 	}
-	
+//Study:讀書心得篇 -> life:生活創意 -> SLTopicc 藍色連結 檔案
+
+//Study:讀書心得篇 -> life:生活創意 -> SLClasses 班級	
 	function SLClasses(i){
 		var classess = [
 						"四技幼保一甲",
@@ -74,12 +78,12 @@
 						"四技餐飲一甲",
 						"四技餐飲一乙",
 						"四技餐飲一丙"
-						
-						
 						];
 		return classess[i];
 	}
-	
+//Study:讀書心得篇 -> life:生活創意 -> SLClasses 班級
+
+//Study:讀書心得篇 -> life:生活創意 -> SLNames 姓名	
 	function SLNames(i){
 		var sc = "　";
 		var namess = [
@@ -102,11 +106,9 @@
 						"吳明芳",
 						"顧欣如",
 						"王宜華"
-						
-						
-						
 					];
 		return namess[i];
 	}
+//Study:讀書心得篇 -> life:生活創意 -> SLNames 姓名
 	SLTopic();
 	

@@ -1,4 +1,4 @@
-﻿	
+﻿//Read:閱讀心得篇 -> engineering:工學院 -> RETopic 標題	
 	function RETopic(i){
 		var topics = [
 						"迷上原住民文化的日本人",
@@ -22,7 +22,9 @@
 		t = topics.length;		
 		return topics[i];
 	}
-	
+//Read:閱讀心得篇 -> engineering:工學院 -> RETopic 標題
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> RETopicc 藍色連結 檔案
 	function RETopicc(i){
 		var topi = [
 					"我看《關於拉馬達仙仙與拉荷阿雷》",
@@ -45,7 +47,9 @@
 					];
 		return topi[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> RETopicc 藍色連結 檔案
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> REClasses 班級
 	function REClasses(i){
 		var classess = [
 						"四技電子一甲",
@@ -68,7 +72,9 @@
 						];
 		return classess[i];
 	}
-	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> REClasses 班級
+
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> RENames 姓名
 	function RENames(i){
 		var namess = [
 						"吳志隆",
@@ -92,5 +98,7 @@
 					];
 		return namess[i];
 	}
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> RENames 姓名
+
 	RETopic();
 	

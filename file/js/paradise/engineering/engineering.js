@@ -51,7 +51,7 @@
 	}
 //Paradise:樂學園地心得篇 -> engineering:工學院 -> PETopicc 藍色連結 檔案
 
-//Paradise:樂學園地心得篇 -> engineering:工學院 -> PEClasses 班級	
+//Paradise:樂學園地心得篇 -> engineering:工學院 -> PEClasses 班級
 	function PEClasses(i){
 		var classess = [
 						"四技電子一甲",

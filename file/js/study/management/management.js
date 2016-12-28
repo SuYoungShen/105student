@@ -1,4 +1,4 @@
-﻿	
+﻿//Study:讀書心得篇 -> management:管理學院 -> SMTopic 標題	
 	function SMTopic(i){
 		var topics = [
 						"迎向困境",
@@ -16,7 +16,9 @@
 		ST = topics.length;		
 		return topics[i];
 	}
-	
+//Study:讀書心得篇 -> management:管理學院 -> SMTopic 標題
+
+//Study:讀書心得篇 -> management:管理學院 -> SMTopicc 藍色連結 檔案
 	function SMTopicc(i){
 		var topi = [
 					"我們讀《姊姊不要哭》",
@@ -34,7 +36,9 @@
 					];
 		return topi[i];
 	}
-	
+//Study:讀書心得篇 -> management:管理學院 -> SMTopicc 藍色連結 檔案
+
+//Study:讀書心得篇 -> management:管理學院 -> SMClasses 班級
 	function SMClasses(i){
 		var classess = [
 						"四技企管一甲",
@@ -51,7 +55,9 @@
 						];
 		return classess[i];
 	}
-	
+//Study:讀書心得篇 -> management:管理學院 -> SMClasses 班級
+
+//Study:讀書心得篇 -> management:管理學院 -> SMNames 姓名	
 	function SMNames(i){
 		var namess = [
 						"葉郁婕",
@@ -69,5 +75,6 @@
 					];
 		return namess[i];
 	}
+//Study:讀書心得篇 -> management:管理學院 -> SMNames 姓名
 	SMTopic();
 	
