@@ -1,4 +1,4 @@
-﻿	
+﻿//Write:寫作 -> model:典範人物 -> MRanking 標題	
 	function MRanking(i){
 		var sc = "　";
 		var topics = [
@@ -11,12 +11,13 @@
 						"佳"+sc+"作",
 						"佳"+sc+"作",
 						"佳"+sc+"作"
-						
 					];
 		MR = topics.length;		
 		return topics[i];
 	}
-	
+//Write:寫作 -> model:典範人物 -> MRanking 標題
+
+//Write:寫作 -> model:典範人物 -> MTopic 藍色連結 檔案
 	function MTopic(i){
 		var topics = [
 						"勇往直前的鹹餅──訪禮面作行政主廚黃綉雅",
@@ -35,7 +36,9 @@
 		
 		return topics[i];
 	}
-	
+//Write:寫作 -> model:典範人物 -> MTopic 藍色連結 檔案
+
+//Write:寫作 -> model:典範人物 -> MClasses 班級
 	function MClasses(i){
 		var classess = [
 						"日間部四技資工二甲",
@@ -51,7 +54,9 @@
 						];
 		return classess[i];
 	}
-	
+//Write:寫作 -> model:典範人物 -> MClasses 班級
+
+//Write:寫作 -> model:典範人物 -> MNames 姓名
 	function MNames(i){
 		var namess = [
 						"林韻如",
@@ -67,5 +72,6 @@
 					];
 		return namess[i];
 	}
+//Write:寫作 -> model:典範人物 -> MNames 姓名
 	MRanking();
 	

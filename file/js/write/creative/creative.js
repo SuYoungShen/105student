@@ -1,4 +1,4 @@
-﻿//Write:寫作 -> engineering:工學院 -> CRanking 創意寫作	
+﻿//Write:寫作 -> creative:創意寫作 -> CRanking 標題
 	function CRanking(i){
 		var sc = "　";
 		var topics = [
@@ -11,14 +11,13 @@
 						"佳"+sc+"作",
 						"佳"+sc+"作",
 						"佳"+sc+"作"
-						
 					];
 		CR = topics.length;		
 		return topics[i];
 	}
-//Write:寫作 -> engineering:工學院 -> CRanking 創意寫作
+//Write:寫作 -> creative:創意寫作 -> CRanking 標題
 
-//Write:寫作 -> engineering:工學院 -> CTopic 藍色連結 檔案
+//Write:寫作 -> creative:創意寫作 -> CTopic 藍色連結 檔案
 	function CTopic(i){
 		var topics = [
 						"虛與實",
@@ -29,16 +28,14 @@
 						"致陪伴我成長的你",
 						"戴上面具的匿名舞會",
 						"網路心經",
-						"陳宜安"
-						
-						
+						"陳宜安"	
 					];
 		
 		return topics[i];
 	}
-//Write:寫作 -> engineering:工學院 -> CTopic 藍色連結 檔案
+//Write:寫作 -> creative:創意寫作 -> CTopic 藍色連結 檔案
 
-//Write:寫作 -> engineering:工學院 -> CClasses 班級	
+//Write:寫作 -> creative:創意寫作 -> CClasses 班級	
 	function CClasses(i){
 		var classess = [
 						"日間部四技建築一甲",
@@ -49,14 +46,13 @@
 						"日間部四技休運一乙",
 						"日間部四技建築一甲",
 						"日間部四技企管一甲",
-						"日間部四技國企二甲"
-						
+						"日間部四技國企二甲"						
 						];
 		return classess[i];
 	}
-//Write:寫作 -> engineering:工學院 -> CClasses 班級	
+//Write:寫作 -> creative:創意寫作 -> CClasses 班級	
 
-//Write:寫作 -> engineering:工學院 -> CNames 姓名	
+//Write:寫作 -> creative:創意寫作 -> CNames 姓名	
 	function CNames(i){
 		var namess = [
 						"王咨淨",
@@ -67,11 +63,10 @@
 						"鍾漢昇",
 						"陳郁融",
 						"林昀諺",
-						"劉鴻慶"			
-						
+						"劉鴻慶"						
 					];
 		return namess[i];
 	}
-//Write:寫作 -> engineering:工學院 -> CNames 姓名
+//Write:寫作 -> creative:創意寫作 -> CNames 姓名
 	CRanking();
 	

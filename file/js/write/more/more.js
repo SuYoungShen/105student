@@ -1,4 +1,4 @@
-﻿	
+﻿//Write:寫作 -> more:多結局 -> MORanking 標題	
 	function MORanking(i){
 		var sc = "　";
 		var topics = [
@@ -16,7 +16,9 @@
 		MOR = topics.length;		
 		return topics[i];
 	}
-	
+//Write:寫作 -> more:多結局 -> MORanking 標題
+
+//Write:寫作 -> more:多結局 -> MOClasses 班級
 	function MOClasses(i){
 		var classess = [
 						"日間部四技應外一甲",
@@ -28,12 +30,12 @@
 						"日間部四技數位延二甲",
 						"日間部四技應外一甲",
 						"日間部四技電子四甲"
-						
-						
 						];
 		return classess[i];
 	}
-	
+//Write:寫作 -> more:多結局 -> MOClasses 班級
+
+//Write:寫作 -> more:多結局 -> MONames 姓名
 	function MONames(i){
 		var namess = [
 						"莊偉根",
@@ -50,5 +52,6 @@
 					];
 		return namess[i];
 	}
+//Write:寫作 -> more:多結局` -> MONames 姓名
 	MORanking();
 	
