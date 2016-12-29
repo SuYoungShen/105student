@@ -1,4 +1,4 @@
-﻿//Write:寫作 -> more:多結局 -> MORanking 標題	
+﻿//Write:寫作 -> more:多結局 -> MORanking 標題
 	function MORanking(i){
 		var sc = "　";
 		var topics = [
@@ -11,7 +11,6 @@
 						"佳"+sc+"作",
 						"佳"+sc+"作",
 						"佳"+sc+"作"
-						
 					];
 		MOR = topics.length;		
 		return topics[i];
@@ -47,11 +46,9 @@
 						"蔡芳沂",
 						"許雅媛",
 						"李修齊"
-						
-						
 					];
 		return namess[i];
 	}
-//Write:寫作 -> more:多結局` -> MONames 姓名
+//Write:寫作 -> more:多結局 -> MONames 姓名
 	MORanking();
 	

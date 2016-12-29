@@ -1,4 +1,4 @@
-﻿//Study:讀書心得篇 -> management:管理學院 -> SMTopic 標題	
+﻿//Study:讀書心得篇 -> management:管理學院 -> SMTopic 標題
 	function SMTopic(i){
 		var topics = [
 						"迎向困境",
@@ -11,7 +11,6 @@
 						"文化的內斂",
 						"隱瞞的真相",
 						"生命的光彩"
-						
 					];
 		ST = topics.length;		
 		return topics[i];
@@ -31,8 +30,6 @@
 					"我看《金色的馬鞍》",
 					"我看《別相信任何人》",
 					"我看《最後的演講》"
-					
-					
 					];
 		return topi[i];
 	}
@@ -51,13 +48,12 @@
 						"四技國企一甲",
 						"四技國企一乙",
 						"四技國企一丙"
-						
 						];
 		return classess[i];
 	}
 //Study:讀書心得篇 -> management:管理學院 -> SMClasses 班級
 
-//Study:讀書心得篇 -> management:管理學院 -> SMNames 姓名	
+//Study:讀書心得篇 -> management:管理學院 -> SMNames 姓名
 	function SMNames(i){
 		var namess = [
 						"葉郁婕",
@@ -70,8 +66,6 @@
 						"陳玉芬",
 						"王瓊宜",
 						"段怡萱"
-						
-						
 					];
 		return namess[i];
 	}

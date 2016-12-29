@@ -1,4 +1,4 @@
-﻿//Read:閱讀心得篇 -> life:生活創意 -> RLTopic 標題	
+﻿//Read:閱讀心得篇 -> life:生活創意 -> RLTopic 標題
 	function RLTopic(i){
 		var topics = [
 						"做自己，但要為自己負責",
@@ -55,7 +55,7 @@
 	}
 //Read:閱讀心得篇 -> life:生活創意 -> RLTopicc 藍色連結 檔案
 
-//Read:閱讀心得篇 -> life:生活創意 -> RLClasses 班級	
+//Read:閱讀心得篇 -> life:生活創意 -> RLClasses 班級
 	function RLClasses(i){
 		var classess = [
 						"四技幼保一甲",

@@ -1,4 +1,4 @@
-﻿//Write:寫作 -> model:典範人物 -> MRanking 標題	
+﻿//Write:寫作 -> model:典範人物 -> MRanking 標題
 	function MRanking(i){
 		var sc = "　";
 		var topics = [
@@ -29,9 +29,6 @@
 						"默默地，把保險送進安靜的世界",
 						"為夢飛翔，勇躍龍門──訪藝之魚創辦人之一林思妤小姐",
 						"高考I'mpossible──訪問正修土木系曾文哲老師"
-						
-						
-						
 					];
 		
 		return topics[i];
@@ -50,7 +47,6 @@
 						"日間部四技觀光二乙",
 						"日間部四技國企二甲",
 						"日間部四技土木二乙"
-						
 						];
 		return classess[i];
 	}
@@ -68,7 +64,6 @@
 						"吳佩珊",
 						"洪湘茹",
 						"蔡忠育"
-						
 					];
 		return namess[i];
 	}

@@ -1,4 +1,4 @@
-﻿//Read:閱讀心得篇 -> management:管理學院 -> RMTopic 標題		
+﻿//Read:閱讀心得篇 -> management:管理學院 -> RMTopic 標題
 	function RMTopic(i){
 		var topics = [
 						"在放棄中成長",

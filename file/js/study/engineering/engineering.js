@@ -50,7 +50,7 @@
 	}
 //Study:讀書心得篇 -> engineering:工學院 -> SETopicc 藍色連結 檔案
 
-//Study:讀書心得篇 -> engineering:工學院 -> SEClasses 班級	
+//Study:讀書心得篇 -> engineering:工學院 -> SEClasses 班級
 	function SEClasses(i){
 		var classess = [
 						"四技電子一甲",
@@ -75,7 +75,7 @@
 	}
 //Study:讀書心得篇 -> engineering:工學院 -> SEClasses 班級	
 
-//Study:讀書心得篇 -> engineering:工學院 -> SENames 姓名	
+//Study:讀書心得篇 -> engineering:工學院 -> SENames 姓名
 	function SENames(i){
 		var namess = [
 						"李淑萍",
